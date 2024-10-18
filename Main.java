@@ -31,7 +31,7 @@ public class Main {
                     System.out.print("Enter airline name: ");
                     String airlineName = scanner.nextLine();  
 
-                    System.out.print("Enter source: ");
+                    System.out.print("Enter departure: ");
                     String source = scanner.nextLine();  
 
                     System.out.print("Enter destination: ");
